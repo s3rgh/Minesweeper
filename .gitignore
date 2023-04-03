@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper (Java)/task/build/
+/Minesweeper (Java)/task/out/
+/Minesweeper (Java)/task/out/production/classes/
+/Topics/LocalDate/Getting information on a day/out/
+/Topics/LocalDate/Getting information on a day/out/production/classes/
+/Topics/LocalTime (1)/Return time without seconds/out/
+/Topics/LocalTime (1)/Return time without seconds/out/production/classes/
+/Topics/Recursion/Fix the method to print strings in the reverse order/out/
+/Topics/Recursion/Fix the method to print strings in the reverse order/out/production/classes/
+/Topics/Stack/Getting the max element of a stack/out/
+/Topics/Stack/Getting the max element of a stack/out/production/classes/
+/Topics/Stack/Which brackets are balanced/out/
+/Topics/Stack/Which brackets are balanced/out/production/classes/
+/Topics/StringBuilder/Create an email/out/
+/Topics/StringBuilder/Create an email/out/production/classes/
